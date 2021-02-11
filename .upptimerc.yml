@@ -5,11 +5,21 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: USMEAT
-    url: https://http://usmeatlive.mx/
+    url: https://usmeatlive.mx/
   - name: UCA
     url: https://moodle.ucags.edu.mx/
   - name: MASTERMANUAL
     url: https://mastermanual.mx/
+  - name: UPA
+    url: https://upa.edu.mx/
+  - name: INVESTARIOSUSMEF
+    url: https://inventariousmef.com.mx/
+  - name: CMS
+    url: https://cms.designa.mx/
+  - name: VIDEOTECA
+    url: https://videotec.americansoftwoodsmexico.com/
+  - name: IEEC
+    url: https://ieec.mx/
 
 status-website:
   baseUrl: /Monitor # where "repo" is your repository name

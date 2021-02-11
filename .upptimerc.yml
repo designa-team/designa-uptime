@@ -20,6 +20,8 @@ sites:
     url: https://videotec.americansoftwoodsmexico.com/
   - name: IEEC
     url: https://ieec.mx/
+  - name: IEEC PRUEBA
+    url: https://http.ieec.mx/
 
 status-website:
   baseUrl: /Monitor # where "repo" is your repository name

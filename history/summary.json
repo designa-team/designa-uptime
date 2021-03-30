@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 222,
-    "timeDay": 205,
-    "timeWeek": 296,
-    "timeMonth": 227,
+    "timeDay": 246,
+    "timeWeek": 286,
+    "timeMonth": 228,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2021-02-11": 15
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 437,
-    "timeWeek": 681,
-    "timeMonth": 572,
-    "timeYear": 561,
+    "time": 558,
+    "timeDay": 383,
+    "timeWeek": 651,
+    "timeMonth": 565,
+    "timeYear": 558,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 303,
-    "timeWeek": 330,
+    "timeDay": 250,
+    "timeWeek": 321,
     "timeMonth": 252,
     "timeYear": 244,
     "dailyMinutesDown": {}
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 316,
-    "timeWeek": 349,
-    "timeMonth": 279,
-    "timeYear": 265,
+    "time": 268,
+    "timeDay": 401,
+    "timeWeek": 365,
+    "timeMonth": 283,
+    "timeYear": 268,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 232,
-    "timeWeek": 297,
-    "timeMonth": 248,
-    "timeYear": 235,
+    "time": 236,
+    "timeDay": 273,
+    "timeWeek": 309,
+    "timeMonth": 249,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -97,17 +97,21 @@
     "icon": "https://favicons.githubusercontent.com/cms.designa.mx",
     "slug": "cms",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 179,
-    "timeWeek": 274,
-    "timeMonth": 217,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.64%",
+    "time": 217,
+    "timeDay": 305,
+    "timeWeek": 285,
+    "timeMonth": 220,
+    "timeYear": 217,
+    "dailyMinutesDown": {
+      "2021-02-16": 58,
+      "2021-02-15": 22,
+      "2021-02-11": 162
+    }
   },
   {
     "name": "VIDEOTECA",
@@ -120,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 280,
-    "timeDay": 282,
-    "timeWeek": 325,
-    "timeMonth": 286,
-    "timeYear": 280,
+    "time": 281,
+    "timeDay": 320,
+    "timeWeek": 333,
+    "timeMonth": 287,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2021-02-16": 58,
       "2021-02-15": 22
@@ -136,17 +140,21 @@
     "icon": "https://favicons.githubusercontent.com/ieec.mx",
     "slug": "ieec",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 275,
-    "timeWeek": 294,
-    "timeMonth": 249,
-    "timeYear": 233,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.64%",
+    "time": 235,
+    "timeDay": 339,
+    "timeWeek": 308,
+    "timeMonth": 252,
+    "timeYear": 235,
+    "dailyMinutesDown": {
+      "2021-02-16": 58,
+      "2021-02-15": 22,
+      "2021-02-11": 162
+    }
   },
   {
     "name": "MEGAWATT",
@@ -154,17 +162,21 @@
     "icon": "https://favicons.githubusercontent.com/megawatt.com.mx",
     "slug": "megawatt",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 279,
-    "timeWeek": 305,
-    "timeMonth": 237,
-    "timeYear": 232,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.46%",
+    "time": 235,
+    "timeDay": 305,
+    "timeWeek": 321,
+    "timeMonth": 239,
+    "timeYear": 235,
+    "dailyMinutesDown": {
+      "2021-02-16": 58,
+      "2021-02-15": 22,
+      "2021-02-11": 162
+    }
   },
   {
     "name": "PUNTORECARGA",
@@ -172,16 +184,20 @@
     "icon": "https://favicons.githubusercontent.com/puntoderecarga.mx",
     "slug": "puntorecarga",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 472,
-    "timeWeek": 540,
-    "timeMonth": 447,
-    "timeYear": 442,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.46%",
+    "time": 447,
+    "timeDay": 587,
+    "timeWeek": 558,
+    "timeMonth": 452,
+    "timeYear": 447,
+    "dailyMinutesDown": {
+      "2021-02-16": 58,
+      "2021-02-15": 22,
+      "2021-02-11": 162
+    }
   }
 ]

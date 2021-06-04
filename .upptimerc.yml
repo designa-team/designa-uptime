@@ -24,6 +24,8 @@ sites:
     url: https://megawatt.com.mx/
   - name: PUNTORECARGA
     url: https://puntoderecarga.mx/
+  - name: CANVAS IEEC
+    url: https://canvas.ieec.mx/
 
 status-website:
   baseUrl: /Monitor # where "repo" is your repository name

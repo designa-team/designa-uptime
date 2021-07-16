@@ -135,18 +135,19 @@
     "url": "https://ieec.mx/",
     "icon": "https://favicons.githubusercontent.com/ieec.mx",
     "slug": "ieec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 147,
-    "timeWeek": 301,
-    "timeMonth": 254,
+    "timeDay": 184,
+    "timeWeek": 292,
+    "timeMonth": 253,
     "timeYear": 232,
     "dailyMinutesDown": {
+      "2021-07-16": 0,
       "2021-06-12": 33
     }
   },
@@ -203,7 +204,7 @@
     "timeMonth": 207,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2021-07-16": 21,
+      "2021-07-16": 1024,
       "2021-07-15": 1440,
       "2021-07-14": 1440,
       "2021-07-13": 1440,

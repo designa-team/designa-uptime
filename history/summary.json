@@ -61,9 +61,9 @@
     "url": "https://upa.edu.mx/",
     "icon": "https://favicons.githubusercontent.com/upa.edu.mx",
     "slug": "upa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +72,9 @@
     "timeWeek": 193,
     "timeMonth": 211,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-08": 0
+    }
   },
   {
     "name": "INVESTARIOSUSMEF",
@@ -213,7 +215,7 @@
     "timeMonth": 153,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2021-10-08": 25,
+      "2021-10-08": 1077,
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,

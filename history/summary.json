@@ -4,11 +4,11 @@
     "url": "https://usmeatlive.mx/",
     "icon": "https://favicons.githubusercontent.com/usmeatlive.mx",
     "slug": "usmeat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 218,
     "timeDay": 278,
@@ -16,6 +16,7 @@
     "timeMonth": 187,
     "timeYear": 218,
     "dailyMinutesDown": {
+      "2021-10-13": 5,
       "2021-08-25": 24,
       "2021-02-11": 15
     }
@@ -25,47 +26,51 @@
     "url": "https://moodle.ucags.edu.mx/",
     "icon": "https://favicons.githubusercontent.com/moodle.ucags.edu.mx",
     "slug": "uca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 523,
     "timeDay": 399,
     "timeWeek": 367,
     "timeMonth": 486,
     "timeYear": 523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 5
+    }
   },
   {
     "name": "MASTERMANUAL",
     "url": "https://mastermanual.mx/",
     "icon": "https://favicons.githubusercontent.com/mastermanual.mx",
     "slug": "mastermanual",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 225,
     "timeDay": 293,
     "timeWeek": 176,
     "timeMonth": 187,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 4
+    }
   },
   {
     "name": "UPA",
     "url": "https://upa.edu.mx/",
     "icon": "https://favicons.githubusercontent.com/upa.edu.mx",
     "slug": "upa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 238,
     "timeDay": 294,
@@ -73,6 +78,7 @@
     "timeMonth": 189,
     "timeYear": 238,
     "dailyMinutesDown": {
+      "2021-10-13": 4,
       "2021-10-08": 25
     }
   },
@@ -81,47 +87,51 @@
     "url": "https://inventariousmef.com.mx/",
     "icon": "https://favicons.githubusercontent.com/inventariousmef.com.mx",
     "slug": "investariosusmef",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 313,
     "timeWeek": 185,
     "timeMonth": 199,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 3
+    }
   },
   {
     "name": "CMS",
     "url": "https://cms.designa.mx/",
     "icon": "https://favicons.githubusercontent.com/cms.designa.mx",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 285,
     "timeWeek": 175,
     "timeMonth": 176,
     "timeYear": 215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 3
+    }
   },
   {
     "name": "VIDEOTECA",
     "url": "https://videotec.americansoftwoodsmexico.com/",
     "icon": "https://favicons.githubusercontent.com/videotec.americansoftwoodsmexico.com",
     "slug": "videoteca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 282,
     "timeDay": 298,
@@ -129,6 +139,7 @@
     "timeMonth": 267,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2021-10-13": 2,
       "2021-02-16": 58,
       "2021-02-15": 22
     }
@@ -138,10 +149,10 @@
     "url": "https://ieec.mx/",
     "icon": "https://favicons.githubusercontent.com/ieec.mx",
     "slug": "ieec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.93%",
     "time": 231,
@@ -150,6 +161,7 @@
     "timeMonth": 210,
     "timeYear": 231,
     "dailyMinutesDown": {
+      "2021-10-13": 2,
       "2021-09-27": 27,
       "2021-09-20": 21,
       "2021-09-15": 17,
@@ -167,10 +179,10 @@
     "url": "https://megawatt.com.mx/",
     "icon": "https://favicons.githubusercontent.com/megawatt.com.mx",
     "slug": "megawatt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
@@ -178,17 +190,19 @@
     "timeWeek": 204,
     "timeMonth": 196,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "PUNTORECARGA",
     "url": "https://puntoderecarga.mx/",
     "icon": "https://favicons.githubusercontent.com/puntoderecarga.mx",
     "slug": "puntorecarga",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
@@ -196,7 +210,9 @@
     "timeWeek": 324,
     "timeMonth": 337,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "CANVAS IEEC",
@@ -215,7 +231,7 @@
     "timeMonth": 146,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2021-10-13": 25,
+      "2021-10-13": 448,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
       "2021-10-10": 1440,

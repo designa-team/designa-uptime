@@ -53,9 +53,9 @@
     "url": "https://mastermanual.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/mastermanual.mx.ico",
     "slug": "mastermanual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -65,6 +65,7 @@
     "timeMonth": 268,
     "timeYear": 311,
     "dailyMinutesDown": {
+      "2023-03-31": 0,
       "2022-10-11": 21,
       "2022-09-20": 37
     }
@@ -99,7 +100,7 @@
     "status": "up",
     "uptime": "98.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.68%",
+    "uptimeWeek": "86.06%",
     "uptimeMonth": "75.61%",
     "uptimeYear": "97.96%",
     "time": 282,
@@ -261,7 +262,7 @@
     "timeMonth": 216,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2023-03-31": 41,
+      "2023-03-31": 382,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,

@@ -1,7 +1,7 @@
 url: https://moodle.ucags.edu.mx/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-02T10:24:49.775Z
+status: up
+code: 200
+responseTime: 615
+lastUpdated: 2024-03-02T13:45:57.585Z
 startTime: 2021-02-11T17:30:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>

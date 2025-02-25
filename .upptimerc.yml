@@ -4,18 +4,10 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: USMEAT
-    url: https://usmeatlive.mx/
-  - name: UCA
-    url: https://moodle.ucags.edu.mx/
   - name: MASTERMANUAL
     url: https://mastermanual.mx/
   - name: UPA
     url: https://upa.edu.mx/
-  - name: INVESTARIOSUSMEF
-    url: https://inventariousmef.com.mx/
-  - name: CMS
-    url: https://cms.designa.mx/
   - name: VIDEOTECA
     url: https://videotec.americansoftwoodsmexico.com/
   - name: IEEC
@@ -26,6 +18,8 @@ sites:
     url: https://puntoderecarga.mx/
   - name: CANVAS IEEC
     url: https://canvas.ieec.mx/
+  - name: CN CENTER
+    url: https://causanaturacenter.org/
 
 status-website:
   baseUrl: /Monitor # where "repo" is your repository name

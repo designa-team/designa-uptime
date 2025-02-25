@@ -20,6 +20,8 @@ sites:
     url: https://canvas.ieec.mx/
   - name: CN CENTER
     url: https://causanaturacenter.org/
+  - name: CN MEDIA
+    url: https://causanaturamedia.com/
 
 status-website:
   baseUrl: /Monitor # where "repo" is your repository name

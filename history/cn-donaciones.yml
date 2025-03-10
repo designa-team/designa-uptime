@@ -1,7 +1,7 @@
 url: https://donaciones.causanatura.org/en
-status: up
-code: 200
-responseTime: 552
-lastUpdated: 2025-03-09T23:10:17.838Z
+status: down
+code: 502
+responseTime: 228
+lastUpdated: 2025-03-10T17:38:19.705Z
 startTime: 2025-03-03T18:29:41.788Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -14,16 +14,14 @@ sites:
     url: https://ieec.mx/
   - name: MEGAWATT
     url: https://megawatt.com.mx/
-  - name: PUNTORECARGA
-    url: https://puntoderecarga.mx/
-  - name: CANVAS IEEC
-    url: https://canvas.ieec.mx/
   - name: CN CENTER
     url: https://causanaturacenter.org/
   - name: CN MEDIA
     url: https://causanaturamedia.com/
   - name: CN DONACIONES
     url: https://donaciones.causanatura.org/en
+  - name: Aprender Parejo
+    url: https://aprenderparejo.mx/
 
 status-website:
   baseUrl: /Monitor # where "repo" is your repository name

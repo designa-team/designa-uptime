@@ -8,6 +8,14 @@ sites:
     url: https://mastermanual.mx/
   - name: UPA
     url: https://upa.edu.mx/
+  - name: UPA REVISTA
+    url: https://revistapolitecnicaags.upa.edu.mx/
+  - name: UPA MOODLE
+    url: https://moodle.upa.edu.mx/
+  - name: UPA TITULACIÓN
+    url: https://titulacion.upa.edu.mx/
+  - name: UPA CAJAS
+    url: https://cajas.upa.edu.mx/
   - name: VIDEOTECA
     url: https://videotec.americansoftwoodsmexico.com/
   - name: IEEC

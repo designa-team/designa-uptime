@@ -37,4 +37,9 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-#
+
+# Disable publishing behavior
+commitMessages:
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "73812536+upptime-bot@users.noreply.github.com"
+

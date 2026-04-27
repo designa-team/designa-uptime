@@ -32,15 +32,8 @@ sites:
     url: https://aprenderparejo.mx/
 
 status-website:
-  cname: null
-  baseUrl: /
-  name: null
-  introTitle: null
-  introMessage: null
-  navbar: []
-  theme: null
-  #baseUrl: /Monitor # where "repo" is your repository name
-  #name: Monitor Designa
+  baseUrl: /Monitor # where "repo" is your repository name
+  name: Monitor Designa
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
@@ -50,3 +43,6 @@ commitMessages:
   commitAuthorName: "Upptime Bot"
   commitAuthorEmail: "73812536+upptime-bot@users.noreply.github.com"
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true

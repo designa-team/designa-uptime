@@ -429,7 +429,7 @@
     "timeMonth": 0,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2026-04-28": 54,
+      "2026-04-28": 55,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
@@ -833,9 +833,7 @@
     "timeWeek": 242,
     "timeMonth": 242,
     "timeYear": 216,
-    "dailyMinutesDown": {
-      "2025-11-12": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CN CENTER",
@@ -899,8 +897,8 @@
     "slug": "cn-donaciones",
     "status": "up",
     "uptime": "76.39%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.01%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "76.42%",
     "time": 751,

@@ -16,8 +16,6 @@ sites:
     url: https://titulacion.upa.edu.mx/
   - name: UPA CAJAS
     url: https://cajas.upa.edu.mx/
-  - name: VIDEOTECA
-    url: https://videotec.americansoftwoodsmexico.com/
   - name: IEEC
     url: https://ieec.mx/
   - name: MEGAWATT
@@ -30,6 +28,82 @@ sites:
     url: https://donaciones.causanatura.org/en
   - name: Aprender Parejo
     url: https://aprenderparejo.mx/
+  - name: Canvas ucags
+    url: https://canvas.ucags.edu.mx/login/canvas
+  - name: Encuestaspec cuestionarios
+    url: https://encuestaspec.com/
+  - name: Moodle Enrr
+    url: https://moodle.enrr.edu.mx/
+  - name: Prosinergia Enrr
+    url: https://enrr.prosinergia.mx/auth/login
+  - name: Prosinergia Ucags
+    url: https://ucags.prosinergia.mx/auth/login
+  - name: Prosinergia Upa
+    url: https://upa.prosinergia.mx/auth/login
+  - name: Rutas Qro
+    url: https://rutasqro.ieec.mx/
+  - name: Sive Ram api
+    url: sive-ram-api.designa.mx
+  - name: Sonar Qube
+    url: https://sonar.designa.mx/sessions/new?return_to=%2F
+  - name: Informe Unete
+    url: https://informe-unete.designa.mx/
+  - name: Prosistemas
+    url: https://prosistemas.mx/
+  - name: Unete Prod Web
+    url: terminos.designa.mx
+  - name: Campus Virtual
+    url: https://virtual.ucags.edu.mx/
+  - name: Aprender Parejo Queretaro
+    url: https://queretaro.aprenderparejo.mx/
+  - name: Upa campus digital santander
+    url: https://campusdigital.upa.edu.mx/
+  - name: Apt ieec
+    url: https://apt.ieec.mx/
+  - name: Apt web ingress
+    url: https://aprendizajes-para-todos.ieec.mx/
+  - name: Servicios escolares upa
+    url: https://alumnos.upa.edu.mx/
+  - name: Covid ieec
+    url: https://covid.ieec.mx/
+  - name: Grafana Designa
+    url: https://grafana.designa.mx/login
+  - name: Diagnostico apt ieec
+    url: https://diagnostico.ieec.mx/
+  - name: Finanzas Causa Natura
+    url: https://causanatura.designa.mx/
+  - name: Landing designa
+    url: https://designa.mx/
+  - name: Nl Aprende ieec
+    url: https://nlaprende.ieec.mx/
+  - name: Oaxaca ieec
+    url: https://oaxaca.ieec.mx/
+  - name: Unete ieec
+    url: https://unete.designa.mx/
+  - name: Unetec ieec
+    url: https://unetec.designa.mx/
+  - name: Prosinergia mx
+    url: https://prosinergia.mx/
+  - name: Wordpress enrr
+    url: https://enrr.edu.mx/
+  - name: Intranet upa
+    url: https://intranet.upa.edu.mx/intra/acceso_i.php
+  - name: Acuerdo 286
+    url: https://plataforma286.ortegaygasset.mx/
+  - name: V2 Ieec
+    url: https://v2.ieec.mx/
+  - name: Sii upa
+    url: https://sii.upa.edu.mx/index.php
+  - name: Canvas ieec
+    url: https://canvas.ieec.mx/login/canvas
+  - name: Acuerdo286 demo
+    url: https://acuerdo286.designa.mx/
+   - name: Rimaems pwa
+    url: https://rimaems-pwa.ieec.mx/
+  - name: Cms ieec
+    url: https://cms.ieec.mx/admin/auth/login
+  - name: Encuestas CN
+    url: https://encuestas.causanatura.org/auth
 
 status-website:
   baseUrl: /Monitor # where "repo" is your repository name
@@ -37,12 +111,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-# Disable publishing behavior
-commitMessages:
-  commitAuthorName: "Upptime Bot"
-  commitAuthorEmail: "73812536+upptime-bot@users.noreply.github.com"
-
-skipDescriptionUpdate: true
-skipTopicsUpdate: true
-skipHomepageUpdate: true

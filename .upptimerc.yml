@@ -98,7 +98,7 @@ sites:
     url: https://canvas.ieec.mx/login/canvas
   - name: Acuerdo286 demo
     url: https://acuerdo286.designa.mx/
-   - name: Rimaems pwa
+  - name: Rimaems pwa
     url: https://rimaems-pwa.ieec.mx/
   - name: Cms ieec
     url: https://cms.ieec.mx/admin/auth/login

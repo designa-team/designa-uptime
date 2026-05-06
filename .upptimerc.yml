@@ -7,7 +7,7 @@ sites:
   - name: MASTERMANUAL
     url: https://mastermanual.mx/
   - name: UPA
-    url: https://upa.edu.mx/
+    url: https://upa.edu.mx
   - name: UPA REVISTA
     url: https://revistapolitecnicaags.upa.edu.mx/
   - name: UPA MOODLE
@@ -43,7 +43,7 @@ sites:
   - name: Rutas Qro
     url: https://rutasqro.ieec.mx/
   - name: Sive Ram api
-    url: sive-ram-api.designa.mx
+    url: sive-ram-api.designa.mx/api/v1/health
   - name: Sonar Qube
     url: https://sonar.designa.mx/sessions/new?return_to=%2F
   - name: Informe Unete
@@ -57,7 +57,7 @@ sites:
   - name: Aprender Parejo Queretaro
     url: https://queretaro.aprenderparejo.mx/
   - name: Upa campus digital santander
-    url: https://campusdigital.upa.edu.mx/
+    url: https://campusdigital.upa.edu.mx/status
   - name: Apt ieec
     url: https://apt.ieec.mx/
   - name: Apt web ingress
@@ -87,13 +87,13 @@ sites:
   - name: Wordpress enrr
     url: https://enrr.edu.mx/
   - name: Intranet upa
-    url: https://intranet.upa.edu.mx/intra/acceso_i.php
+    url: https://intranet.upa.edu.mx/
   - name: Acuerdo 286
     url: https://plataforma286.ortegaygasset.mx/
   - name: V2 Ieec
     url: https://v2.ieec.mx/
   - name: Sii upa
-    url: https://sii.upa.edu.mx/index.php
+    url: https://sii.upa.edu.mx/
   - name: Canvas ieec
     url: https://canvas.ieec.mx/login/canvas
   - name: Acuerdo286 demo

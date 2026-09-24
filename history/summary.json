@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/upa.edu.mx.ico",
     "slug": "upa",
     "status": "up",
-    "uptime": "63.50%",
+    "uptime": "63.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.80%",
-    "uptimeYear": "5.81%",
+    "uptimeMonth": "70.84%",
+    "uptimeYear": "6.06%",
     "time": 1486,
     "timeDay": 935,
     "timeWeek": 904,
@@ -377,8 +377,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -506,7 +505,7 @@
     "timeDay": 1004,
     "timeWeek": 981,
     "timeMonth": 937,
-    "timeYear": 1415,
+    "timeYear": 1416,
     "dailyMinutesDown": {
       "2025-10-17": 33,
       "2026-02-01": 167
@@ -518,7 +517,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/causanaturamedia.com.ico",
     "slug": "cn-media",
     "status": "up",
-    "uptime": "97.56%",
+    "uptime": "97.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -529,7 +528,6 @@
     "timeMonth": 1958,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2025-09-24": 426,
       "2025-09-26": 12,
       "2025-10-01": 36,
       "2025-10-07": 104,
@@ -543,7 +541,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/donaciones.causanatura.org.ico",
     "slug": "cn-donaciones",
     "status": "up",
-    "uptime": "82.54%",
+    "uptime": "82.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -662,7 +660,7 @@
     "timeDay": 662,
     "timeWeek": 505,
     "timeMonth": 616,
-    "timeYear": 494,
+    "timeYear": 496,
     "dailyMinutesDown": {
       "2025-10-06": 72,
       "2025-11-11": 48,
@@ -1201,11 +1199,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.upa.edu.mx.ico",
     "slug": "intranet-upa",
     "status": "up",
-    "uptime": "15.19%",
+    "uptime": "15.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.80%",
-    "uptimeYear": "15.19%",
+    "uptimeMonth": "70.84%",
+    "uptimeYear": "15.75%",
     "time": 331,
     "timeDay": 324,
     "timeWeek": 315,
@@ -1338,10 +1336,10 @@
     "url": "https://plataforma286.ortegaygasset.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/plataforma286.ortegaygasset.mx.ico",
     "slug": "acuerdo-286",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 446,
@@ -1349,7 +1347,9 @@
     "timeWeek": 337,
     "timeMonth": 443,
     "timeYear": 446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-24": 1
+    }
   },
   {
     "name": "V2 Ieec",
@@ -1375,11 +1375,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sii.upa.edu.mx.ico",
     "slug": "sii-upa",
     "status": "up",
-    "uptime": "15.19%",
+    "uptime": "15.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.80%",
-    "uptimeYear": "15.19%",
+    "uptimeMonth": "70.84%",
+    "uptimeYear": "15.75%",
     "time": 344,
     "timeDay": 324,
     "timeWeek": 336,
@@ -1747,8 +1747,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {

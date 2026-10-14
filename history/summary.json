@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/upa.edu.mx.ico",
     "slug": "upa",
     "status": "up",
-    "uptime": "63.85%",
+    "uptime": "63.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.36%",
+    "uptimeYear": "11.54%",
     "time": 1345,
     "timeDay": 794,
     "timeWeek": 834,
@@ -357,8 +357,7 @@
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
-      "2025-10-15": 1440,
-      "2025-10-14": 1440
+      "2025-10-15": 1440
     }
   },
   {
@@ -486,7 +485,7 @@
     "timeDay": 1147,
     "timeWeek": 1084,
     "timeMonth": 957,
-    "timeYear": 1364,
+    "timeYear": 1365,
     "dailyMinutesDown": {
       "2025-10-17": 33,
       "2026-02-01": 167
@@ -507,7 +506,7 @@
     "timeDay": 955,
     "timeWeek": 1013,
     "timeMonth": 1769,
-    "timeYear": 1036,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2025-12-06": 20
     }
@@ -518,7 +517,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/donaciones.causanatura.org.ico",
     "slug": "cn-donaciones",
     "status": "up",
-    "uptime": "83.14%",
+    "uptime": "83.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1173,11 +1172,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.upa.edu.mx.ico",
     "slug": "intranet-upa",
     "status": "up",
-    "uptime": "25.94%",
+    "uptime": "26.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.94%",
+    "uptimeYear": "26.25%",
     "time": 329,
     "timeDay": 328,
     "timeWeek": 317,
@@ -1331,18 +1330,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/v2.ieec.mx.ico",
     "slug": "v2-ieec",
     "status": "down",
-    "uptime": "95.41%",
+    "uptime": "95.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.90%",
-    "uptimeYear": "95.41%",
+    "uptimeMonth": "73.69%",
+    "uptimeYear": "95.01%",
     "time": 715,
     "timeDay": 123,
     "timeWeek": 152,
     "timeMonth": 861,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2026-10-13": 490,
+      "2026-10-14": 22,
+      "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
@@ -1358,11 +1358,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sii.upa.edu.mx.ico",
     "slug": "sii-upa",
     "status": "up",
-    "uptime": "25.94%",
+    "uptime": "26.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.94%",
+    "uptimeYear": "26.25%",
     "time": 324,
     "timeDay": 338,
     "timeWeek": 287,
@@ -1710,8 +1710,7 @@
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
-      "2025-10-15": 1440,
-      "2025-10-14": 1440
+      "2025-10-15": 1440
     }
   },
   {
@@ -1719,22 +1718,23 @@
     "url": "https://stage-acuerdo286.designa.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/stage-acuerdo286.designa.mx.ico",
     "slug": "acuerdo286-demo",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
-    "time": 203,
-    "timeDay": 190,
-    "timeWeek": 171,
-    "timeMonth": 210,
-    "timeYear": 203,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "32.55%",
+    "uptimeWeek": "90.36%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "99.45%",
+    "time": 205,
+    "timeDay": 223,
+    "timeWeek": 184,
+    "timeMonth": 213,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2026-09-01": 27,
       "2026-09-03": 33,
       "2026-09-02": 247,
-      "2026-10-13": 1
+      "2026-10-14": 21,
+      "2026-10-13": 950
     }
   },
   {

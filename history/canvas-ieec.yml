@@ -1,7 +1,7 @@
 url: https://canvas.ieec.mx/login/canvas
 status: down
-code: 500
-responseTime: 29192
-lastUpdated: 2026-11-03T02:16:04.920Z
+code: 502
+responseTime: 19943
+lastUpdated: 2026-11-03T03:55:02.777Z
 startTime: 2026-05-06T13:09:00.490Z
 generator: Upptime <https://github.com/upptime/upptime>

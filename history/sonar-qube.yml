@@ -1,7 +1,7 @@
 url: https://sonar.designa.mx/sessions/new?return_to=%2F
-status: up
-code: 200
-responseTime: 284
-lastUpdated: 2026-11-25T05:13:40.833Z
+status: down
+code: 404
+responseTime: 156
+lastUpdated: 2026-11-26T03:13:13.490Z
 startTime: 2026-05-06T13:08:35.092Z
 generator: Upptime <https://github.com/upptime/upptime>
